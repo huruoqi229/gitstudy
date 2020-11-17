@@ -1,0 +1,6 @@
+# 以下都是git不用push的内容
+/dist
+.idea
+
+/node_module
+git 
